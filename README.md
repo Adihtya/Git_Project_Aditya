@@ -16,4 +16,6 @@ An interactive browser-based Augmented Reality (AR) application powered by Media
 An interactive data visualization project exploring Brazilian e-commerce data using Python, Pandas, and Streamlit.
 This project was developed as part of Techverse 2026 at Ajeenkya DY Patil University (ADYPU). The goal was to transform raw e-commerce data into meaningful insights through data cleaning, analysis, and interactive visualizations.
 
+*Contact*
+- Email : invictableaditya@gmail.com
 
